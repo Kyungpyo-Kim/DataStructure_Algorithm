@@ -10,3 +10,17 @@
 * **그림으로 정리한 알고리즘과 자료구조**, 조민호 지음
 
 ## 진행사항
+
+
+## Version 관리
+* Commit rule
+    ```
+    feat: a new feature
+    fix: a bug fix
+    docs: changes to documentation
+    style: formatting, missing semi colons, etc; no code change
+    refactor: refactoring production code
+    test: adding tests, refactoring test; no production code change
+    chore: updating build tasks, package manager configs, etc; no production code change
+    ```
+* 모든 폴더명, 파일명은 영어로 작성
