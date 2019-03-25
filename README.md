@@ -11,6 +11,7 @@
 
 ## 진행사항
 * [환경설정](./doc/Setup.md)
+* [Data structure](./notebook/DataStructure.ipynb)
 
 ## Version 관리
 * Commit rule
