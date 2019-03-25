@@ -24,3 +24,6 @@
     chore: updating build tasks, package manager configs, etc; no production code change
     ```
 * 모든 폴더명, 파일명은 영어로 작성
+
+## TODO
+* Jupyter notebook 으로 옮기기
